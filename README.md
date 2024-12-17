@@ -14,6 +14,7 @@ Sherry@https://github.com/SherryBX
 - 🚀多线程处理,提高效率
 - 📊实时进度显示
 - 📝详细的处理日志
+![image](https://github.com/user-attachments/assets/ed196628-2061-442e-8487-f5c71457461f)
 
 ## 🔧安装说明
 
