@@ -28,7 +28,7 @@ pip install PyQt5 rarfile py7zr
    - macOS: `brew install unrar` (使用 Homebrew)
 
 ## 🎯使用说明
-
+0. 配置UnRAR
 1. 运行程序:
 ```bash
 python YaYaRename.py
