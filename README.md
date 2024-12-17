@@ -15,6 +15,10 @@ Sherry@https://github.com/SherryBX
 - 📊实时进度显示
 - 📝详细的处理日志
 ![image](https://github.com/user-attachments/assets/ed196628-2061-442e-8487-f5c71457461f)
+![image](https://github.com/user-attachments/assets/1009b86d-add7-43b6-b6e2-cb109bfbacd3)
+![image](https://github.com/user-attachments/assets/e06ad688-b4a4-4a35-8fcd-50d6c018a07c)
+![image](https://github.com/user-attachments/assets/da59961f-ee16-487d-b74b-26cb1e0afeb7)
+
 
 ## 🔧安装说明
 
